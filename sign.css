@@ -1,0 +1,432 @@
+.bee1 {
+  color: var(--color-gold);
+}
+.howbee2 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.hive-stands-with {
+  width: 497px;
+  position: absolute;
+  margin: 0 !important;
+  right: -249px;
+  bottom: -1px;
+  font-size: var(--font-size-26xl);
+  font-family: var(--font-fasthand);
+  display: inline-block;
+  z-index: 1;
+}
+.howbee-group {
+  width: 505px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  max-width: 100%;
+  font-size: var(--font-size-101xl);
+  font-family: var(--font-dm-sans);
+}
+.frame-child12 {
+  height: 180.8px;
+  width: 116.2px;
+  position: absolute;
+  margin: 0 !important;
+  right: 362.8px;
+  bottom: -90.8px;
+  object-fit: contain;
+}
+.visible-vocal {
+  position: relative;
+}
+.vector-group,
+.visible-vocal-versatile-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.visible-vocal-versatile-wrapper {
+  flex: 1;
+  justify-content: flex-end;
+  padding: 0 0 39px;
+  box-sizing: border-box;
+}
+.vector-group {
+  align-self: stretch;
+  justify-content: flex-start;
+  position: relative;
+}
+.signs-of-change,
+.signs-of-hope {
+  margin: 0;
+}
+.frame-child13,
+.signs-of-change-container {
+  position: relative;
+  flex-shrink: 0;
+  /* debug_commit: bf4bc93; */
+}
+.signs-of-change-container {
+  line-height: 55px;
+  display: inline-block;
+  min-width: 222px;
+  z-index: 7;
+}
+.frame-child13 {
+  align-self: stretch;
+  height: 42.9px;
+  max-width: 100%;
+  overflow: hidden;
+}
+.vector-wrapper {
+  width: 125.2px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 32.2px 0 0;
+  box-sizing: border-box;
+}
+.signs-of-change-signs-of-hope-parent {
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 30.8px;
+}
+.frame-div,
+.frame-wrapper1,
+.sign-inner,
+.signs-of-change-signs-of-hope-parent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-wrapper1 {
+  width: 650px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  text-align: right;
+}
+.frame-div,
+.sign-inner {
+  justify-content: flex-start;
+}
+.frame-div {
+  flex: 1;
+  flex-direction: column;
+  gap: 7px;
+}
+.sign-inner {
+  width: 1321px;
+  flex-direction: row;
+  padding: 0 var(--padding-11xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-19xl);
+  color: var(--color-black);
+  font-family: var(--font-fasthand);
+}
+.unlock-new-conversations {
+  position: relative;
+  z-index: 6;
+}
+.unlock-new-conversations-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.sign-with-confidence {
+  width: 389px;
+  position: relative;
+  font-size: var(--font-size-18xl);
+  font-family: var(--font-dm-sans);
+  display: inline-block;
+  max-width: 100%;
+  margin-top: -29px;
+}
+.frame-parent1 {
+  width: 1231px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-child14 {
+  margin-left: -31px;
+  width: 1441px;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  max-width: 103%;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.learn-with-howbee {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 3;
+}
+.pngaaa-3-icon,
+.pngaaa-4-icon {
+  position: absolute;
+  top: 240.2px;
+  left: 0;
+  width: 796.4px;
+  height: 418px;
+  object-fit: cover;
+}
+.pngaaa-4-icon {
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+}
+.frame-child15,
+.pngaaa-4-parent {
+  position: absolute;
+  top: 29px;
+  left: 579.9px;
+  width: 175.2px;
+  height: 4.1px;
+  z-index: 7;
+}
+.pngaaa-4-parent {
+  top: 117.2px;
+  left: 369px;
+  width: 796.4px;
+  height: 418px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 0;
+}
+.frame-child16 {
+  position: absolute;
+  top: 116.2px;
+  left: 287.5px;
+  border-radius: 50%;
+  background-color: #acffd2;
+  width: 485px;
+  height: 484px;
+  z-index: 0;
+}
+.frame-child17,
+.frame-child18 {
+  position: absolute;
+  top: 379.2px;
+  left: 652.4px;
+  width: 10.5px;
+  height: 8.9px;
+  z-index: 3;
+}
+.frame-child18 {
+  top: 377.6px;
+  left: 654px;
+  width: 13.7px;
+  height: 8.1px;
+  z-index: 4;
+}
+.frame-child19 {
+  z-index: 100;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  cursor: pointer;
+  transition: transform 0.1s;
+  transform-origin: bottom center;
+}
+.frame-child20 {
+  position: absolute;
+  top: 124.8px;
+  left: 632.8px;
+  width: 49.2px;
+  height: 55.6px;
+  z-index: 6;
+}
+.frame-child21,
+.frame-child22 {
+  position: absolute;
+  top: 230.2px;
+  left: 33.6px;
+  width: 134.6px;
+  height: 1.9px;
+  z-index: 6;
+}
+.frame-child22 {
+  top: 11.6px;
+  left: 135.3px;
+  width: 60.2px;
+  height: 4.4px;
+}
+.arrow-icon,
+.curve-text-icon2,
+.curve-text-icon3 {
+  position: absolute;
+  top: 374.2px;
+  left: 169.5px;
+  width: 158.2px;
+  height: 173.7px;
+  object-fit: contain;
+  z-index: 6;
+}
+.arrow-icon,
+.curve-text-icon3 {
+  top: 384.4px;
+  left: 736.7px;
+  width: 126.6px;
+  height: 187.2px;
+}
+.arrow-icon {
+  z-index: 100;
+  top: 584.2px;
+  left: 529.5px;
+  width: 14.7px;
+  height: 30.1px;
+}
+.ellipse-container {
+  position: absolute;
+  top: 0;
+  left: 80.5px;
+  width: 877.5px;
+  height: 1728.5px;
+}
+.pngaaa-3-parent {
+  height: 629.2px;
+  width: 1165.4px;
+  position: absolute;
+  margin: 0 !important;
+  right: -485.4px;
+  bottom: -397px;
+}
+.frame-section,
+.learn-with-howbee-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.learn-with-howbee-parent {
+  margin-left: -408px;
+  width: 1170px;
+  flex-direction: row;
+  padding: 0 var(--padding-xl) 0 0;
+  position: relative;
+  text-align: center;
+  font-size: var(--font-size-18xl);
+  font-family: var(--font-dm-sans);
+}
+.frame-section {
+  align-self: stretch;
+  flex-direction: column;
+  padding: 0 var(--padding-12xs) 7px var(--padding-11xl);
+  gap: var(--gap-9xs);
+  text-align: left;
+  font-size: var(--font-size-19xl);
+  color: var(--color-black);
+  font-family: var(--font-fasthand);
+}
+.sign-child {
+  width: 111.8px;
+  height: 3.3px;
+  position: absolute;
+  margin: 0 !important;
+  top: 351.8px;
+  left: 279.8px;
+}
+.sign,
+.sign-item {
+  position: relative;
+  box-sizing: border-box;
+}
+.sign-item {
+  align-self: stretch;
+  height: 1px;
+  border-top: 1px solid var(--color-black);
+  z-index: 3;
+}
+.sign {
+  width: 100%;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xl) 0 var(--padding-302xl);
+  gap: 68px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 750px) {
+  .howbee2 {
+    font-size: var(--font-size-29xl);
+  }
+  .hive-stands-with {
+    font-size: var(--font-size-17xl);
+  }
+  .visible-vocal {
+    font-size: var(--font-size-11xl);
+  }
+  .signs-of-change-container {
+    line-height: 44px;
+  }
+  .learn-with-howbee,
+  .sign-with-confidence,
+  .signs-of-change-container,
+  .unlock-new-conversations {
+    font-size: var(--font-size-11xl);
+  }
+  .sign {
+    gap: 34px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .howbee2 {
+    font-size: var(--font-size-11xl);
+  }
+  .hive-stands-with {
+    font-size: var(--font-size-8xl);
+  }
+  .signs-of-change-container,
+  .visible-vocal {
+    font-size: var(--font-size-4xl);
+  }
+  .signs-of-change-container {
+    line-height: 33px;
+    flex: 1;
+  }
+  .signs-of-change-signs-of-hope-parent {
+    flex-wrap: wrap;
+    gap: 15px;
+  }
+  .unlock-new-conversations {
+    font-size: var(--font-size-4xl);
+  }
+  .learn-with-howbee,
+  .sign-with-confidence {
+    font-size: var(--font-size-3xl);
+  }
+  .sign {
+    gap: 17px;
+  }
+}
